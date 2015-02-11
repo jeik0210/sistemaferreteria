@@ -1,0 +1,26 @@
+C:\Users\jeisonpc\Documents\Entregable\algoritmo\proyectodealgoritmo\proyectodealgoritmo\bin\Debug\proyectodealgoritmo.exe
+C:\Users\jeisonpc\Documents\Entregable\algoritmo\proyectodealgoritmo\proyectodealgoritmo\bin\Debug\proyectodealgoritmo.pdb
+C:\Users\jeisonpc\Documents\Entregable\algoritmo\proyectodealgoritmo\proyectodealgoritmo\bin\Debug\proyectodealgoritmo.xml
+C:\Users\jeisonpc\Documents\Entregable\algoritmo\proyectodealgoritmo\proyectodealgoritmo\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\jeisonpc\Documents\Entregable\algoritmo\proyectodealgoritmo\proyectodealgoritmo\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\jeisonpc\Documents\Entregable\algoritmo\proyectodealgoritmo\proyectodealgoritmo\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\jeisonpc\Documents\Entregable\algoritmo\proyectodealgoritmo\proyectodealgoritmo\obj\x86\Debug\proyectodealgoritmo.vbproj.GenerateResource.Cache
+C:\Users\jeisonpc\Documents\Entregable\algoritmo\proyectodealgoritmo\proyectodealgoritmo\obj\x86\Debug\proyectodealgoritmo.exe
+C:\Users\jeisonpc\Documents\Entregable\algoritmo\proyectodealgoritmo\proyectodealgoritmo\obj\x86\Debug\proyectodealgoritmo.xml
+C:\Users\jeisonpc\Documents\Entregable\algoritmo\proyectodealgoritmo\proyectodealgoritmo\obj\x86\Debug\proyectodealgoritmo.pdb
+C:\Users\jeisonpc\Documents\Entregable\algoritmo\proyectodealgoritmo\proyectodealgoritmo\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Users\jeisonpc\Documents\Entregable\algoritmo\proyectodealgoritmo\proyectodealgoritmo\obj\x86\Debug\WindowsApplication1.Form4.resources
+C:\Users\jeisonpc\Documents\Entregable\algoritmo\proyectodealgoritmo\proyectodealgoritmo\obj\x86\Debug\WindowsApplication1.Form5.resources
+D:\carpetas de recuperacion\de mi usb\ \algoritmo\proyectodealgoritmo\proyectodealgoritmo\obj\x86\Debug\proyectodealgoritmo.exe
+D:\carpetas de recuperacion\de mi usb\ \algoritmo\proyectodealgoritmo\proyectodealgoritmo\obj\x86\Debug\proyectodealgoritmo.xml
+D:\carpetas de recuperacion\de mi usb\ \algoritmo\proyectodealgoritmo\proyectodealgoritmo\obj\x86\Debug\proyectodealgoritmo.pdb
+D:\carpetas de recuperacion\de mi usb\ \algoritmo\proyectodealgoritmo\proyectodealgoritmo\bin\Debug\proyectodealgoritmo.exe
+D:\carpetas de recuperacion\de mi usb\ \algoritmo\proyectodealgoritmo\proyectodealgoritmo\bin\Debug\proyectodealgoritmo.pdb
+D:\carpetas de recuperacion\de mi usb\ \algoritmo\proyectodealgoritmo\proyectodealgoritmo\bin\Debug\proyectodealgoritmo.xml
+D:\carpetas de recuperacion\de mi usb\ \algoritmo\proyectodealgoritmo\proyectodealgoritmo\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\carpetas de recuperacion\de mi usb\ \algoritmo\proyectodealgoritmo\proyectodealgoritmo\obj\x86\Debug\WindowsApplication1.Form2.resources
+D:\carpetas de recuperacion\de mi usb\ \algoritmo\proyectodealgoritmo\proyectodealgoritmo\obj\x86\Debug\WindowsApplication1.Form3.resources
+D:\carpetas de recuperacion\de mi usb\ \algoritmo\proyectodealgoritmo\proyectodealgoritmo\obj\x86\Debug\WindowsApplication1.Form4.resources
+D:\carpetas de recuperacion\de mi usb\ \algoritmo\proyectodealgoritmo\proyectodealgoritmo\obj\x86\Debug\WindowsApplication1.Form5.resources
+D:\carpetas de recuperacion\de mi usb\ \algoritmo\proyectodealgoritmo\proyectodealgoritmo\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\carpetas de recuperacion\de mi usb\ \algoritmo\proyectodealgoritmo\proyectodealgoritmo\obj\x86\Debug\proyectodealgoritmo.vbproj.GenerateResource.Cache
